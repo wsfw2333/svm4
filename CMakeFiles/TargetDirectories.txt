@@ -1,0 +1,3 @@
+/home/wsfw/svm3/CMakeFiles/rebuild_cache.dir
+/home/wsfw/svm3/CMakeFiles/edit_cache.dir
+/home/wsfw/svm3/CMakeFiles/svm3_pic.dir
